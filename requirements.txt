@@ -1,0 +1,5 @@
+streamlit>=1.49,<2.0
+plotly>=5.24,<7.0
+
+# Optional CodeBERT checkbox: install torch and transformers only if you
+# explicitly want semantic model scoring; it downloads a model on first use.
